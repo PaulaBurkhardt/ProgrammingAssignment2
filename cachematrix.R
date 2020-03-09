@@ -18,7 +18,6 @@ makeCacheMatrix <- function(x = matrix()) {
              getinverse = getinverse)
 }
 
-
 ## Write a short comment describing this function
 #This function is there to invert the matrix, in case of the inversion already having
 #been calculated already it just calls up the old information.
